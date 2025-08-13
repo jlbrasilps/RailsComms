@@ -1,3 +1,4 @@
+HEAD
 # 🟣 RailsComms – Discord Clone built with Ruby on Rails 🧵
 
 RailsComms is a functional **project ** built with **Ruby on Rails**, supporting **chat rooms**, **real-time messaging** via **Action Cable**, and **user authentication** with Devise.
@@ -45,3 +46,6 @@ rails db:create db:migrate db:seed
 # Run the server
 rails s
 ```
+=======
+# RailsComms
+386fb8cc2c78986a8c909c0fa1cd23e9001a3793
